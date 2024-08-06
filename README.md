@@ -1,1 +1,0 @@
-ember-power-datepicker/README.md
